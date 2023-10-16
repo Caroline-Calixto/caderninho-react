@@ -8,7 +8,7 @@ Este projeto foi criado com o objetivo de compartilhar o meu aprendizado e ajuda
 
 ## Postagens
 
-- **[Um breve overview sobre Cookies, Local Storage e Session Storage](postagens/cookies-local-storage-session-storage.md):** Nesta postagem, explorei os conceitos e o uso de Cookies, Local Storage e Session Storage. Saiba como essas tecnologias podem ser úteis em suas aplicações web.
+- **[Um breve overview sobre Cookies, Local Storage e Session Storage](https://medium.com/@carolinecalixto/um-breve-overview-sobre-cookies-local-storage-e-session-storage-986a4e6e190e):** Nesta postagem, explorei os conceitos e o uso de Cookies, Local Storage e Session Storage. Saiba como essas tecnologias podem ser úteis em suas aplicações web.
 
 ## Contribuição
 
