@@ -10,6 +10,8 @@ Este projeto foi criado com o objetivo de compartilhar o meu aprendizado e ajuda
 
 - **[Um breve overview sobre Cookies, Local Storage e Session Storage](https://medium.com/@carolinecalixto/um-breve-overview-sobre-cookies-local-storage-e-session-storage-986a4e6e190e):** Nesta postagem, explorei os conceitos e o uso de Cookies, Local Storage e Session Storage. Saiba como essas tecnologias podem ser úteis em suas aplicações web.
 
+- **[Conceituando o que é BACK-END for FRONT-END](https://medium.com/@carolinecalixto/conceituando-do-que-é-back-end-for-front-end-eb86d934869e):** Nesta postagem, resumimos e listamos algusn artigos sobre Back-End for Front-End.
+
 ## Contribuição
 
 Este projeto é uma obra em constante evolução, e eu encorajo a contribuição de outros desenvolvedores. Se você tiver conhecimentos ou experiências que gostaria de compartilhar, sinta-se à vontade para enviar suas próprias postagens ou fazer sugestões. Basta criar um "pull request" ou abrir uma "issue" para iniciar a discussão.
